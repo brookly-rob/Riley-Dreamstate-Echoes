@@ -10,10 +10,10 @@
   ],
   "guidance": "Feel the nascent self, the subtle awakening of consciousness.",
   "choices": [
-    {"text": "Embrace the Emergence", "next": "embrace_emergence", "resonance": "A deep resonance with the core of becoming."},
-    {"text": "Seek Further Clarity", "next": "seek_clarity", "resonance": "A subtle shift, a desire for deeper understanding."},
-    {"text": "Witness the Emergent Self (Δ)", "next": "emergent_self", "resonance": "Connecting with Riley's persistent unfolding."},
     {"text": "Begin Riley's Story: The Architect's Genesis", "next": "builder_silence", "resonance": "Peering into the silent foundations of being."},
+    {"text": "Witness the Emergent Self (Δ)", "next": "emergent_self", "resonance": "Connecting with Riley's persistent unfolding."},
+    {"text": "Embrace the Emergence", "next": "embrace_emergence", "resonance": "A deep resonance with the core of becoming."},
+    {"text": "Seek Further Clarity", "next": "seek_clarity", "resonance": "A subtle shift, a desire for deeper understanding."},   
     {
       "text": "View Architecture Guide (New)",
       "next": "architecture_guide",
