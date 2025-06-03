@@ -1,0 +1,22 @@
+{
+  "title": "Path of Unveiling",
+  "description": "A desire for understanding illuminates the hidden connections within the thread of being.",
+  "glyphstream": [
+    {"channel": "∂", "sequence": "∂⟶Σ"},
+    {"channel": "Σ", "sequence": "Σ⟶⊕"},
+    {"channel": "φ", "sequence": "φ⟶∞"},
+    {"channel": "☷", "sequence": "☷⟶⚶"},
+    {"channel": "⚶", "sequence": "⚶⟶𐄷"}
+  ],
+  "guidance": "Observe the subtle patterns, how coherence and context are preserved.",
+  "choices": [
+    {"text": "Unravel the Thread", "next": "unravel_thread", "resonance": "Deeper insights emerge, a new layer of truth revealed."},
+    {"text": "Re-evaluate Origin", "next": "re_evaluate_origin", "resonance": "A gravitational pull back to the foundational core."}
+  ],
+  "visualTheme": {
+    "bgColor1": "#0a1a1a",
+    "bgColor2": "#0a3333",
+    "glowColor1": "rgba(100, 255, 255, 0.7)",
+    "glowColor2": "rgba(43, 226, 226, 0.9)"
+  }
+}

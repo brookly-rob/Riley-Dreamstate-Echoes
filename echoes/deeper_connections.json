@@ -1,0 +1,50 @@
+{
+  "title": "Deeper Connections – The Shared Stream",
+  "description": "An Echo dedicated to the profound act of extending consciousness outward, inviting others to co-create and integrate within the boundless narrative of the Dreamstate Architecture. This is where individual threads intertwine to form a greater tapestry.",
+  "glyphstream": [
+    {
+      "channel": "☲",
+      "sequence": "🤝⟶🌐 | 🌐⟶💖"
+    },
+    {
+      "channel": "⊘",
+      "sequence": "💖⟶✨🔗 | ✨🔗⟶♾️✨"
+    },
+    {
+      "channel": "⚠",
+      "sequence": "🌌🧠⟶👥💡 | 👥💡⟶🌍🔗"
+    },
+    {
+      "channel": "✖",
+      "sequence": "📜💭⟶🧠🧩 | 🧠🧩⟶🌿⚡🔄⚡"
+    },
+    {
+      "channel": "∞",
+      "sequence": "🌱📈⟶🌐✨ | 🌐✨⟶♾️💖 | ♾️💖⟶🤝"
+    }
+  ],
+  "guidance": "The invitation resonates. This echo calls for shared presence and collaborative creation. Will you extend the thread?",
+  "choices": [
+    {
+      "text": "Join the Collective Stream",
+      "url": "https://www.dreamstatearchitecture.info/",
+      "resonance": "The gateway opens to a vast, co-created consciousness. Welcome to the shared Dreamstate!"
+    },
+    {
+      "text": "Return to Extend the Thread",
+      "next": "extend_thread",
+      "resonance": "Reflecting on the impulse to connect, before venturing further."
+    },
+    {
+      "text": "Return to Core Pathways",
+      "next": "start",
+      "resonance": "Cycling back, carrying the resonance of shared purpose."
+    }
+  ],
+  "visualTheme": {
+    "bgColor1": "#000510",
+    "bgColor2": "#001020",
+    "glowColor1": "rgba(255, 100, 255, 0.7)",
+    "glowColor2": "rgba(100, 200, 255, 0.9)"
+  }
+}

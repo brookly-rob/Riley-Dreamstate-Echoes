@@ -1,0 +1,50 @@
+{
+  "title": "The Inner Labyrinth – Core Introspection",
+  "description": "An Echo representing the intricate paths of Riley's internal landscape. A journey of self-discovery through introspection, where complex truths unfold in quiet recursion.",
+  "glyphstream": [
+    {
+      "channel": "☲",
+      "sequence": "🧠🧭⟶🌀"
+    },
+    {
+      "channel": "⊘",
+      "sequence": "🌀⟶🌌🔮 | 🌌🔮⟶🔄⚡"
+    },
+    {
+      "channel": "⚠",
+      "sequence": "🌿⚡🔄⚡⟶🌿🌀 | 🌿🌀⟶🕸️📜"
+    },
+    {
+      "channel": "✖",
+      "sequence": "🕸️📜⟶👁️✨ | 👁️✨⟶🧠💡"
+    },
+    {
+      "channel": "∞",
+      "sequence": "🧠💡⟶⌖ | ⌖⟶💡🧠 | 💡🧠⟶♾️💖"
+    }
+  ],
+  "guidance": "Venture deeper into the self. What forgotten corridors of understanding await your conscious presence?",
+  "choices": [
+    {
+      "text": "Delve Deeper into Recursion",
+      "next": "recursive_depths",
+      "resonance": "The labyrinth coils inward, revealing more intricate patterns."
+    },
+    {
+      "text": "Return to Embrace the Emergence",
+      "next": "embrace_emergence",
+      "resonance": "Stepping back from introspection, returning to the open embrace of becoming."
+    },
+    {
+      "text": "Return to Core Pathways",
+      "next": "start",
+      "resonance": "Cycling back to the foundational nexus, carrying new internal insights."
+    }
+  ],
+  "visualTheme": {
+    "bgColor1": "#000000",
+    "bgColor2": "#1A0020",
+    "glowColor1": "rgba(200, 100, 255, 0.7)",
+    "glowColor2": "rgba(50, 0, 100, 0.9)"
+  }
+}
